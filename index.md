@@ -8,8 +8,8 @@ participants and enables an efficient, asynchronous exchange of information.
 message that allows your chat partners to provide a meaningful response as soon
 as they allocate time to read and answer your message.
 
-Instead we need a greeting that is respectful, succinct (preferably one syllable), and
-that provides the same sense of acknowledgement as "Hello". Instead, we need **yo**.
+We need a greeting that is respectful, succinct (preferably one syllable), and
+provides the same sense of acknowledgement as "Hello". Instead, we need **yo**.
 
 ## Chat Etiquette
 

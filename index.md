@@ -45,9 +45,9 @@ you have a sec ?", "yt?" and "ping". Just ask the question!
 With time, we often find ourself set into traditional business practices; it can
 be hard to remember new ways and practices. If you find yourself struggling to 
 remember not to say "Hello", the following adages may help.
-- "Skip hello, jump straight to Yo"
-- "You start with Yo, and immediately go"
-- "Out with hello, in with the Yo"
+* "Skip hello, jump straight to Yo"
+* "You start with Yo, and immediately go"
+* "Out with hello, in with the Yo"
 
 If you feel it's brusque to simply say "Yo" and ask the question, you can do
 something like this:

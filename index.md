@@ -1,5 +1,5 @@
 # Please Don't Just Say Hello In Chat
-Test thingy
+Test 1
 ## TL;DR
 
 Modern chat communication should be done in a way that saves time for all

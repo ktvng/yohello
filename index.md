@@ -1,4 +1,4 @@
-# Please Don't Just Say Hello In Chat
+# Please Don't Just Say Hello In Chat, Say 'Yo' Instead
 
 ## TL;DR
 

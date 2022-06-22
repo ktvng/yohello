@@ -1,6 +1,6 @@
-# Nohello
+# Yohello
 
-This is the source of [this](https://sbmueller.github.io/nohello/) website.
+This is the source of [this](https://ktvng.github.io/yohello/) website.
 
 ## Build
 
@@ -17,8 +17,10 @@ pandoc --standalone --metadata pagetitle="nohello" --css "assets/css/pandoc.css"
 ## Acknowledgements
 
 This website was inspired by the original at
-[nohello.com](https://www.nohello.com/). Acknowledgements go to the original
-anonymous author. I felt an urge to modernize this gem with a more suitable
-layout, https connection and open-sourced code.
+[nohello.com](https://www.nohello.com/) and by the "canonical" open source 
+version found [here](https://sbmueller.github.io/nohello/). Acknowledgements go to the original
+anonymous author and the creators of the open source "mirror". The 
 [Stylesheet](https://gist.github.com/forivall/7d5a304a8c3c809f0ba96884a7cf9d7e#file-gh-pandoc-css)
-licensed under MIT license, Copyright (c) 2016-2017 Emily M Klassen.
+is available licensed under MIT license, Copyright (c) 2016-2017 Emily M Klassen.
+
+I felt the need to put a quirky spin on a timeless classic.

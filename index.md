@@ -45,6 +45,7 @@ you have a sec ?", "yt?" and "ping". Just ask the question!
 With time, we often find ourself set into traditional business practices; it can
 be hard to remember new ways and practices. If you find yourself struggling to 
 remember not to say "Hello", the following adages may help.
+
 * "Skip hello, jump straight to Yo"
 * "You start with Yo, and immediately go"
 * "Out with hello, in with the Yo"
@@ -81,4 +82,4 @@ context, and it helps you remember what you wanted to talk about if the
 recipient can't or doesn't respond until later.
 
 <sup>The source for this website is open and available on [GitHub](https://github.com/ktvng/yohello).</sup>
-<sup>This was forked from [GitHub](https://github.com/sbmueller/nohello).</sup>
+<sup>This was forked from [here](https://github.com/sbmueller/nohello).</sup>
